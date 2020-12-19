@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\CajeroAutomatico\bin\Debug\CajeroAutomatico.exe.config
+C:\Users\USER\source\repos\CajeroAutomatico\bin\Debug\CajeroAutomatico.exe
+C:\Users\USER\source\repos\CajeroAutomatico\bin\Debug\CajeroAutomatico.pdb
+C:\Users\USER\source\repos\CajeroAutomatico\obj\Debug\CajeroAutomatico.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\CajeroAutomatico\obj\Debug\CajeroAutomatico.Cajero.resources
+C:\Users\USER\source\repos\CajeroAutomatico\obj\Debug\CajeroAutomatico.Properties.Resources.resources
+C:\Users\USER\source\repos\CajeroAutomatico\obj\Debug\CajeroAutomatico.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\CajeroAutomatico\obj\Debug\CajeroAutomatico.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\CajeroAutomatico\obj\Debug\CajeroAutomatico.exe
+C:\Users\USER\source\repos\CajeroAutomatico\obj\Debug\CajeroAutomatico.pdb
+C:\Users\USER\source\repos\CajeroAutomatico\obj\Debug\CajeroAutomatico.Form1.resources
